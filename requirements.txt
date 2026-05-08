@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+torch
+numpy
+folium
+streamlit-folium
+matplotlib
+Pillow
+segmentation-models-pytorch
+requests
